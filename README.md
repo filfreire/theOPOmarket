@@ -26,11 +26,15 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 **TL;DR for dummies:** - Betting and Gambling - tech arm of PaddyPowerBetfair.
 
+---
+
 ### Jumia Porto Tech Center
 
 [Official page](https://www.facebook.com/JumiaPortoTechCenter/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-Jumia-EI_IE703397.11,16.htm)
 
 **TL;DR for dummies:** - African equivalents of Amazon, OLX, Booking, and other.
+
+---
 
 ### Farfetch
 
@@ -38,11 +42,15 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 **TL;DR for dummies:** - High-fashion online shop.
 
+---
+
 ### Feedzai
 
 [Official page](https://feedzai.com/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-Feedzai-EI_IE744720.11,18.htm)
 
 **TL;DR for dummies:** - Fraud Detection software.
+
+---
 
 ### Talkdesk
 
@@ -50,11 +58,14 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 **TL;DR for dummies:** - Call-center software.
 
+---
+
 ### Mindera
 
 [Official page](https://mindera.com/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-Mindera-EI_IE1139926.11,18.htm)
 
 **TL;DR for dummies:** - "Lean and self-organisation"-culturesque contractor, working for multiple projects.
+
 
 ## contribute!
 
