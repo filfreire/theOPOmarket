@@ -66,6 +66,13 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 **TL;DR for dummies:** - "Lean and self-organisation"-culturesque contractor, working for multiple projects.
 
+---
+
+### Xing
+
+[Official page](https://www.xing.com/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-XING-AG-EI_IE100328.11,18.htm) - [Careers](https://corporate.xing.com/en/career/)
+
+**TL;DR for dummies:** - European Career oriented social networking site.
 
 ## contribute!
 
