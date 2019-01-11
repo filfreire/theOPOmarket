@@ -4,7 +4,6 @@ An opinionated down-to-earth take on Engineering "Job" Market of Porto, Portugal
 
 [Porto on Google Maps](https://goo.gl/maps/x2yYutsxgn82)
 
-
 ## typicalSalaryRange
 
 **Warning:** values taken "grocery-shop calculator"-style from salaries found on glassdoor. Consider looking-into the values on Glassdoor and ask actual people that work for those companies, don't take anything for granted.
@@ -25,6 +24,30 @@ Below is a list of the typical best tech companies to work with in Porto.
 [Official page](https://blip.pt/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-Blip-EI_IE574750.11,15.htm) - [Careers](https://blip.pt/jobs/)
 
 **TL;DR for dummies:** - Betting and Gambling - tech arm of PaddyPowerBetfair.
+
+---
+
+### Critical Software
+
+[Official page](https://www.criticalsoftware.com/) - [Glassdoor profile](https://www.glassdoor.co.uk/Overview/Working-at-CRITICAL-Software-EI_IE243286.11,28.htm) - [Careers](https://www.criticalsoftware.com/en/careers/apply-now)
+
+**TL;DR for dummies:** - Working with multiple projects. Some of them interesting, other no.
+
+---
+
+### Critical Techworks
+
+[Official page](https://www.criticaltechworks.com/) - [Glassdoor profile](https://www.glassdoor.co.uk/Overview/Working-at-Critical-TechWorks-EI_IE2142740.11,29.htm) - [Careers](https://www.criticaltechworks.com/)
+
+**TL;DR for dummies:** - Software systems for the BMW Group. Critical Group.
+
+---
+
+### dashdash
+
+[Official page](https://www.dashdash.com/) - [Glassdoor profile](https://www.glassdoor.co.uk/Overview/Working-at-Dashdash-EI_IE2314090.11,19.htm) - [Careers](https://landing.jobs/at/dashdash)
+
+**TL;DR for dummies:** - A new German company settling in Porto. A rich/improved spreadsheet grip app!?
 
 ---
 
@@ -77,4 +100,3 @@ Below is a list of the typical best tech companies to work with in Porto.
 ## contribute!
 
 This list is very subjective/opinionated, not to be taken very seriously. Feel free to open issues or pull-requests. Main rule is to be respectful and down-to-earth, and point things out as they're usually talked in coffee-break conversations with close-friends.
-
