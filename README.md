@@ -51,6 +51,14 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 ---
 
+### DefinedCrowd
+
+[Official page](https://www.definedcrowd.com/) - [Glassdoor profile](https://www.glassdoor.co.uk/Overview/Working-at-DefinedCrowd-EI_IE1278802.11,23.htm) - [Careers](https://careers.definedcrowd.com/)
+
+**TL;DR for dummies:** - Focused in AI training and data enrich.
+
+---
+
 ### Jumia Porto Tech Center
 
 [Official page](https://www.facebook.com/JumiaPortoTechCenter/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-Jumia-EI_IE703397.11,16.htm) - [Careers](https://group.jumia.com/careers/)
