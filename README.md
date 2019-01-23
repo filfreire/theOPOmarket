@@ -55,7 +55,7 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 [Official page](https://www.definedcrowd.com/) - [Glassdoor profile](https://www.glassdoor.co.uk/Overview/Working-at-DefinedCrowd-EI_IE1278802.11,23.htm) - [Careers](https://careers.definedcrowd.com/)
 
-**TL;DR for dummies:** - Focused in AI training and data enrich.
+**TL;DR for dummies:** - From Porto to the world. Focused in AI training and data enrichment.
 
 ---
 
