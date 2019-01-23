@@ -99,6 +99,14 @@ Below is a list of the typical best tech companies to work with in Porto.
 
 ---
 
+### Vestas
+
+[Official page](https://www.vestas.com/) - [Glassdoor profile](https://www.glassdoor.co.uk/Overview/Working-at-Vestas-Wind-Systems-EI_IE26454.11,30.htm) - [Careers](https://careers.vestas.com/)
+
+**TL;DR for dummies:** - From Denmark to Porto. Sustainable energy solutions for the benefit of customers and the planet.
+
+---
+
 ### Xing
 
 [Official page](https://www.xing.com/) - [Glassdoor profile](https://www.glassdoor.com/Overview/Working-at-XING-AG-EI_IE100328.11,18.htm) - [Careers](https://corporate.xing.com/en/career/)
